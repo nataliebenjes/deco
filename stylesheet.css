@@ -1,0 +1,28 @@
+
+.text {
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
+/* .text2 {
+    width: 30%;
+}
+.text3 {
+    width: 30%;
+} */
+.image {
+    max-width: 30%;
+    max-height: 30%;
+    }
+
+.color1 {
+    background-color: aqua;
+}
+
+.color2 {
+    background-color: goldenrod;
+}
+
+.color3 {
+    background-color: green;
+}
